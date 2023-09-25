@@ -1,4 +1,4 @@
-##Other icons are in development
+# Other icons are in development
 # vscode-rich-presence-icons
 
 ![N|Solid](https://i.imgur.com/MQc2Dsl.png)
