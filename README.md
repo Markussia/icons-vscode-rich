@@ -9,7 +9,7 @@ My repository contains some languages ​​that change these icons
 
 In order to use these icons you do not need to download anything. It’s simply enough to register the config in config.js in Vscode
 
-```
+```json
     "vscord.status.problems.text": "problems code",
     "vscord.ignore.workspacesText": "workspace text",
     "vscord.status.details.text.debugging": "debugging",
