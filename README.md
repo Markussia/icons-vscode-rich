@@ -33,5 +33,7 @@ In order to use these icons you do not need to download anything. It’s simply 
 config with all icons:
 
 ```json
-
+    "vscord.status.image.large.debugging.key": "https://raw.githubusercontent.com/Markussia/icons-vscode-rich/main/DEBUG.png",
+    "vscord.status.image.large.editing.key": "https://raw.githubusercontent.com/Markussia/icons-vscode-rich/main/{LANG}.png",
+    "vscord.status.image.small.editing.key": "https://raw.githubusercontent.com/Markussia/icons-vscode-rich/main/large/large-{LANG}.png"
 ```
