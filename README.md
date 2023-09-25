@@ -37,3 +37,6 @@ config with all icons:
     "vscord.status.image.large.editing.key": "https://raw.githubusercontent.com/Markussia/icons-vscode-rich/main/{LANG}.png",
     "vscord.status.image.small.editing.key": "https://raw.githubusercontent.com/Markussia/icons-vscode-rich/main/large/large-{LANG}.png"
 ```
+
+
+![N|Solid](https://i.imgur.com/LGK5gx3.png)
